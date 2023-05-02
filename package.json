@@ -1,0 +1,13 @@
+{
+  "name": "nodechatbot",
+  "version": "1.0.0",
+  "description": "training on node, from this tutorial https://www.youtube.com/watch?v=6KT9T73-Iik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
